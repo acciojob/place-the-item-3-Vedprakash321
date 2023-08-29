@@ -2,15 +2,15 @@
 /* Your CSS Code here. */
 
   .holder {
-	 margin:5px;
-    display: flex;
+	display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
   }
 
   .item {
      width:200px;
 	  height:200px;
-	  justify-content: space-between;
+	 
   }
 .item1{
 	background-color:;
