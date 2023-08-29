@@ -4,19 +4,17 @@
 .holder {
 	display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
   }
 
-  .item {
-     width:200px;
+.item {
+	width:200px;
 	height:200px;
 	 
-  }
+}
 .item1{
 	background-color:green;
 }
-
-
 
 .item2{
 	background-color:blue;
